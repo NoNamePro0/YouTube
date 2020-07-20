@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Helpfull" Version="1.0.0-dev1" />
+    <PackageReference Include="NYoutubeDL" Version="0.11.0" />
+  </ItemGroup>
+
 </Project>
